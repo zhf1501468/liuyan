@@ -1,0 +1,61 @@
+
+*{
+  margin:0;
+  padding:0;
+}
+
+#web_bg{
+  position:fixed;
+  top: 0;
+  left: 0;
+  width:100%;
+  height:100%;
+  min-width: 1000px;
+  z-index:-10;
+  zoom: 1;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-position: center 0;
+}
+
+span{
+  display:block;   
+  text-align:center;  
+  margin-top:20px;  
+  font-size:22px;   
+  font-weight:bold;  
+  margin-bottom:15px;
+}
+
+div{
+  width:300px;
+  height:80px;
+  margin:0 auto;
+  font-weight:bold;
+}
+
+textarea{
+  width:300px;   
+  height:80px;   
+  background:#eee;
+  margin-bottom:10px;
+  resize: none;
+}
+
+form input{
+  margin-top:10px;
+  width:110px;
+  height:18px;
+  background:#eee;
+}
+
+
+table{
+	
+	margin-top: 30px;
+
+
+}
